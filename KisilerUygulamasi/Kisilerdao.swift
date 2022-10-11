@@ -1,10 +1,3 @@
-//
-//  Kisilerdao.swift
-//  KisilerUygulamasi
-//
-//  Created by Kasım Adalan on 31.07.2019.
-//  Copyright © 2019 info. All rights reserved.
-//
 
 import Foundation
 
